@@ -2,5 +2,3 @@
  
 This is a change that should create a conflict
 
-
-CONFLICT!!!!
